@@ -16,7 +16,7 @@ job_posting_text = st.text_area("Enter the job posting text:", height=200)
 additional_info = st.text_input("Any additional information for the cover letter?")
 
 prompt = f'''
-Using the following resume text, job posting text, and additional prompting text, please generate a cover letter for me.
+Using the following info, please generate a cover letter:
 Resume Text = [{resume_text}]
 Job Title = [{job_title}]
 Job Posting Text = [{job_posting_text}]
