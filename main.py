@@ -20,7 +20,6 @@ st.title("Cover Letter Generator")
 job_title = st.text_input("Enter the job title you are applying for:")
 resume_text = st.text_area("Enter your resume text:", height=200, value=default_resume_text)
 job_posting_text = st.text_area("Enter the job posting text:", height=200)
-resume_text = st.text_area("Enter your resume text:", height=200)
 excitedFor = st.text_area("Enter what you're excited for in this position", height=200, value=default_excited_for)
 additional_info = st.text_input("Any additional information for the cover letter?")
 
