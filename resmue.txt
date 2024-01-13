@@ -1,0 +1,57 @@
+Zachary Howell
+Austin, TX (Open to Relocation)
+ 979.450.0715 # contact@zachary-howell.com ï linkedin.com/in/zacharyahowell  zachary-howell.com
+Experience
+Essentium, Inc. Austin, TX
+Mechanical Engineer II March 2022 – July 2023
+• Blue Laser DED Microwire Metal 3D Printer | DOD/AFRL R&D Contract
+◦ Engineered over 200 components across three generations of Essentium’s R&D blue laser DED microwire metal 3D
+printer, enabling the successful completion of multi-million dollar defense contract milestones
+◦ Leveraged academic and industry research to solve unique challenges posed by metal wire printing, including needs
+for precision extrusion, buffering, and in-line straightening of stainless steel and refractory microwire
+◦ Served as the DRI for the printhead subsystem, collaborating with individual contributors and the systems engineer
+to ensure that the printhead hit PRD specifications and effectively integrated with other subsystems
+◦ Interfaced directly with local machine shops and large on-demand manufacturing service providers, supplying
+detailed drawings and instructions that balanced part production speed, cost, and quality
+◦ Designed, performed, and documented tests to validate the performance of engineered components and assemblies
+◦ Machined prototype components in-house using standard machine shop tools (milling machine, lathe, etc.)
+◦ Developed printing processes by designing experiments, performing tests, and analyzing data with custom scripts
+◦ Curated the team’s SolidWorks PDM vault by designing a directory structure, updating top level assemblies,
+encouraging proper check-in/check-out hygiene, and collaborating with the PDM administrator on technical issues
+• HSE Polymer Printing Platform | Essentium Commercial Product
+◦ Designed components across Essentium’s X80 polymer printing platform - including a flexible filament-focused hot
+end and a remotely-viewable process camera - enabling key customers and internal users to develop new applications
+and maintain heightened levels of process control
+◦ Characterized the chamber heating performance of competitors’ 3D printers through application of DAQ and
+programming knowledge, allowing Essentium to confidently define thermal requirements for its HSE 240 printer
+• Additional Responsibilities
+◦ Actively participated as a member of the Essentium Culture Committee, contributing to the development of a
+positive work environment and implementing methods of improved visibility and accountability between teams
+◦ Served as product owner and developer for Essentium’s next-gen HSE slicing software solution
+◦ Organized, stocked, and maintained hardware, tools, and R&D machines in Essentium’s mechatronics laboratory
+Applications Engineer May 2021 – March 2022
+• Developed novel applications for Essentium’s industrial HSE polymer 3D printers and filament
+• Provided field service engineering support, troubleshooting complex machine issues, conducting on-site installations,
+leading training sessions, and collaborating cross-functionally to enhance product reliability
+• Refined expertise in polymer Design for Additive Manufacturing (DfAM) and expanded knowledge of polymer physics
+Colorado School of Mines Shock & Impact Lab Golden, CO
+Undergraduate Research Assistant Sept 2020 – Dec 2020
+• Designed structural framing to mount and stabilize the lab’s gas gun and shock tube
+• Assembled and calibrated optics for Schlieren photography setup
+• Managed over $10,000 worth of purchasing requests to help lab meet material needs
+Projects
+Lunar Rover Wheel | Manufacturing Innovation Competition Sept 2019 – Dec 2019
+• Placed third at a university competition hosted by Colorado School of Mines, engineering a novel design solution and
+manufacturing pathway for a resource-collecting extraterrestrial rover wheel
+• Optimized topology of wheel geometries to minimize production and deployment costs while maintaining strength
+• Collaborated with technical advisors and industry professionals to achieve manufacturing and entrepreneurial goals
+Education
+Colorado School of Mines Golden, CO
+Bachelor of Science in Mechanical Engineering | Area of Emphasis - Aerospace Engineering Dec 2020
+Skills
+Engineering Skills: Engineering Design, Computer Aided Design (CAD), Solid Mechanics, Composite Mechanics, Finite
+Element Analysis (FEA), Fluid Mechanics, Computational Fluid Dynamics (CFD), Heat Transfer,
+GD&T - ASME Y14.5, Additive Manufacturing, Machine Shop Experience (Mill, Lathe, CNC), Data
+Acquisition, Electronics (Soldering, Microcontrollers, etc.), Project Management, Lab Organization
+Software: SolidWorks, PDM, Python, MathCAD, MATLAB, G-Code, 3D Slicers, LabVIEW
+Certifications: SolidWorks Mechanical Design Associate (CSWA)
