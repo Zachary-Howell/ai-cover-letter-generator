@@ -17,11 +17,11 @@ default_excited_for = Path(default_excited_for_path).read_text() if Path(default
 # Streamlit app elements
 st.title("Cover Letter Generator")
 
-job_title = st.text_input("Enter the job title you are applying for:")
 resume_text = st.text_area("Enter your resume text:", height=200, value=default_resume_text)
+job_title = st.text_input("Enter the job title you are applying for:")
 job_posting_text = st.text_area("Enter the job posting text:", height=200)
 excitedFor = st.text_area("Enter what you're excited for in this position", height=200, value=default_excited_for)
-additional_info = st.text_input("Any additional information for the cover letter?")
+additional_info = st.text_area("Any additional prompting text for the cover letter?")
 
 prompt = f'''
 Using the following info, please generate a cover letter:
